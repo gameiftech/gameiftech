@@ -10,8 +10,6 @@ Sobre mim
 - ⚡ Curiosidade: ChatGPT.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gameiftech)](https://github.com/anuraghazra/github-readme-stats)
-
 #### Tecnologias que eu uso.
 
 <div style="display: inline_block"><br>
