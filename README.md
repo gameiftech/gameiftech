@@ -21,7 +21,7 @@ Sobre mim
   
 </div>
   
-  #### Vejas minhas redes sociais
+  #### Minhas Redes
  
 <div> 
   <a href="https://www.youtube.com/channel/UCljEeIbtO1S_kKwU0T5N9tA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
