@@ -1,5 +1,6 @@
 ## Olá eu sou a Deivid Castro. 👋
 
+![Deivid's GitHub stats](https://github-readme-stats.vercel.app/api?username=gameiftech&show_icons=true&theme=dracula)<br>
 Sobre mim
 
 - 🌱 Atualmente estou aprendendo HTML, CSS, Javascript, Python.
@@ -8,7 +9,8 @@ Sobre mim
 - 😄 Pronomes: DvD.
 - ⚡ Curiosidade: ChatGPT.
 
-![Deivid's GitHub stats](https://github-readme-stats.vercel.app/api?username=gameiftech&show_icons=true&theme=dracula)<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gameiftech)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Tecnologias que eu uso.
 
