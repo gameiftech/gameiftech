@@ -1,11 +1,17 @@
-## Olá eu sou a Deivid Castro. 👋
+## Olá e seja bem-vindo ao meu perfil do GitHub! 👋
+
+Meu nome é Deivid Castro e sou formado em Analise e Desenvolvimento de Sistemas. Este perfil contém alguns dos meus projetos mais recentes, onde eu gosto de experimentar novas tecnologias e linguagens de programação.
+
+Eu acredito em compartilhar conhecimento e colaboração, e é por isso que eu amo projetos de código aberto. Então, sinta-se à vontade para navegar pelos meus projetos, abrir problemas ou contribuir com ideias e soluções.
+
+Além disso, também estou disponível para freelas e projetos em tempo integral. Então, se você precisar de ajuda em algum projeto, pode entrar em contato comigo através do meu perfil do LinkedIn 👉<a href="https://www.linkedin.com/in/deivid-ferreira-castro-2a7231232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>.
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gameiftech&show_icons=true&theme=dracula)<br>
 Sobre mim
 
 - 🌱 Atualmente estou aprendendo HTML, CSS, Javascript, Python.
 - 👯 Estou procurando colaborar em projetos voluntários em ONG.
-- 📫 Como chegar até mim: Entre em contato no Linkedin. 👉<a href="https://www.linkedin.com/in/deivid-ferreira-castro-2a7231232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 - 😄 Pronomes: DvD.
 - ⚡ Curiosidade: ChatGPT.
 
@@ -20,6 +26,7 @@ Sobre mim
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
   
 </div>
+
   
   #### Minhas Redes
  
@@ -29,4 +36,6 @@ Sobre mim
    <a href="https://www.gameiftech.com.br/" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank"></a>
   
 </div>
+
+Obrigado por visitar meu perfil e espero que você encontre algo interessante aqui!
 
