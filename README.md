@@ -1,6 +1,6 @@
 ## Olá e seja bem-vindo ao meu perfil do GitHub! 👋
 
-Meu nome é Deivid Castro e sou formado em Analise e Desenvolvimento de Sistemas. Este perfil contém alguns dos meus projetos mais recentes, onde eu gosto de experimentar novas tecnologias e linguagens de programação.
+Meu nome é DvD e sou formado em Analise e Desenvolvimento de Sistemas. Este perfil contém alguns dos meus projetos mais recentes, onde eu gosto de experimentar novas tecnologias e linguagens de programação.
 
 Eu acredito em compartilhar conhecimento e colaboração, e é por isso que eu amo projetos de código aberto. Então, sinta-se à vontade para navegar pelos meus projetos, abrir problemas ou contribuir com ideias e soluções.
 
