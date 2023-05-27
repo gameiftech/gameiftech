@@ -7,9 +7,7 @@ Eu acredito em compartilhar conhecimento e colaboração, e é por isso que eu a
 Além disso, também estou disponível para freelance e projetos em tempo integral. Então, se você precisar de ajuda em algum projeto, pode entrar em contato comigo através do meu perfil do LinkedIn 👉<a href="https://www.linkedin.com/in/deivid-ferreira-castro-2a7231232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gameiftech&show_icons=true&theme=dracula)<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gameiftech&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gameiftech&show_icons=true&theme=dracula)<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gameiftech&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Sobre mim
 - 🌱 Atualmente estou aprendendo HTML, CSS, Javascript, Python.
