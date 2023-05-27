@@ -10,7 +10,7 @@ Além disso, também estou disponível para freelance e projetos em tempo integr
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gameiftech&show_icons=true&theme=dracula)<br>
 Sobre mim
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gameiftech&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gameiftech&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 Atualmente estou aprendendo HTML, CSS, Javascript, Python.
 - 👯 Estou procurando colaborar em projetos voluntários em ONG.
