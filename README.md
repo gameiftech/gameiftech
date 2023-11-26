@@ -4,7 +4,7 @@ Meu nome é DvD e sou formado em Análise e Desenvolvimento de Sistemas. Este pe
 
 Eu acredito em compartilhar conhecimento e colaboração, e é por isso que eu amo projetos de código aberto. Então, sinta-se à vontade para navegar pelos meus projetos, abrir problemas ou contribuir com ideias e soluções.
 
-Além disso, também estou disponível para freelance e projetos em tempo integral. Então, se você precisar de ajuda em algum projeto, pode entrar em contato comigo através do meu perfil do LinkedIn 👉<a href="https://www.linkedin.com/in/deivid-ferreira-castro-2a7231232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>.
+Além disso, também estou disponível para freelance e projetos em tempo integral. Então, se você precisar de ajuda em algum projeto, pode entrar em contato comigo através do meu perfil do LinkedIn 👉<a href="https://www.linkedin.com/in/deivid-f-2a7231232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gameiftech&show_icons=true&theme=dracula)
